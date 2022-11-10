@@ -1,3 +1,0 @@
-Hello!
-I love Netology!
-But I'm messing around...
